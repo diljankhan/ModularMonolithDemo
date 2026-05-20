@@ -28,7 +28,7 @@ ModularMonolithDemo/
 ├── Demo.Modules.Catalog/           # Isolated class library managing Products
 └── Demo.SharedKernel/              # Shared contracts for safe inter-module communication
 
-
+---
 Dependency Reference Matrix
 ┌───────────────┐
                   │   Demo.Host   │ (Aggregates & Runs All Modules)
